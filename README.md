@@ -1,4 +1,4 @@
-# tf-bert-mlm-pattern
+# tf-mlm-preprocess-pattern
 
 This repository implements common pattern appears when implementing BERT model pretraining code with Masked Language Model(MLM) task. Since this task requires a pretrained tokenizer, code implementation is simply incremented from pattern implemented in [this repository](https://github.com/fungeeksunsik/spm-tokenizer-pattern). 
 
